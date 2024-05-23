@@ -1,0 +1,26 @@
+Cadastro Paciente
+ - Campos:
+
+Detalhes Paciente
+ - Informações Cadastrais
+ - Histórico de Consultas
+
+Detalhe Consulta
+ - Data da Consulta
+ - Procedimento
+ - Valor
+ - Forma de Pagamento
+ - Data de Pagamento
+ - Data de Retorno
+ - Validade do Procedimento => entrar em contato para remarcar procedimento
+
+Agenda
+ - Cadastro de Consulta para Paciente
+ - Exibição por Dia, Semana e Mês (formatado ou em lista)
+ - Geração de Relatório (Atendimentos no dia, na semana e no mês)
+
+Custos
+ - Calculo de Custos
+
+Vendas e Custos
+ - Geração de Relatórios
